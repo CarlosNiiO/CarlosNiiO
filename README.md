@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 <div>
-  <a href="https://www.linkedin.com/in/carlosniio/">
+  <a href="https://www.github.com/CarlosNiiO">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosNiiO&show_icons=true&theme=transparent&include_allcommits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosNiiO&layout=compact&langs_count=16&theme=transparent"/>
 </div>
